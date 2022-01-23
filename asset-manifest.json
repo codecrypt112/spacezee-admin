@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b5dda651.css",
-    "main.js": "/static/js/main.4922d30d.js",
-    "static/media/logo.jpeg": "/static/media/logo.4fdb10bf1bdc6dc026fb.jpeg",
-    "index.html": "/index.html",
-    "static/media/dashboard_icon.svg": "/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
-    "static/media/add_icon.svg": "/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
-    "main.b5dda651.css.map": "/static/css/main.b5dda651.css.map",
-    "main.4922d30d.js.map": "/static/js/main.4922d30d.js.map"
+    "main.css": "/spacezee-admin/static/css/main.b5dda651.css",
+    "main.js": "/spacezee-admin/static/js/main.9b20b494.js",
+    "static/media/logo.jpeg": "/spacezee-admin/static/media/logo.4fdb10bf1bdc6dc026fb.jpeg",
+    "index.html": "/spacezee-admin/index.html",
+    "static/media/dashboard_icon.svg": "/spacezee-admin/static/media/dashboard_icon.bc800f3b9286b71005c3f026ebfaa958.svg",
+    "static/media/add_icon.svg": "/spacezee-admin/static/media/add_icon.376e9b6a44e5b3142f1239a3cc8504d0.svg",
+    "main.b5dda651.css.map": "/spacezee-admin/static/css/main.b5dda651.css.map",
+    "main.9b20b494.js.map": "/spacezee-admin/static/js/main.9b20b494.js.map"
   },
   "entrypoints": [
     "static/css/main.b5dda651.css",
-    "static/js/main.4922d30d.js"
+    "static/js/main.9b20b494.js"
   ]
 }
