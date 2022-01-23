@@ -1,8 +1,8 @@
 {
   "name": "projects-management",
   "version": "0.1.0",
+  "homepage": "https://codecrypt112.github.io",
   "private": true,
-  "homepage": "https://codecrypt112.github.io/spacezee-admin/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
